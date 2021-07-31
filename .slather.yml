@@ -1,3 +1,4 @@
 coverage_service: coveralls
 xcodeproj: Example/JazzHandsDemo.xcodeproj
 source_directory: JazzHands
+source_directory: JazzHands
